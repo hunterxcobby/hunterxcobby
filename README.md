@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cobby S</h1>
+<h1 align="center">Hi 👋, I'm Cobby </h1>
 <h3 align="center">Software Engineering Student at ALX A</h3>
 
 <br>
@@ -9,7 +9,7 @@
   </div>
   
   <div align=center>
-<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+TALIS+%F0%9F%91%8B;ALX+SOFTWARE+ENGINEERING+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Cobby+%F0%9F%91%8B;👨‍💻+Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
   </div>
 
 <p align="left"> <a href="https://twitter.com/talistech" target="blank"><img src="https://img.shields.io/twitter/follow/talistech?logo=twitter&style=for-the-badge" alt="talistech" /></a> </p>
