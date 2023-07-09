@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm KHALID TAHIRI</h1>
-<h3 align="center">Software Engineering Student at ALX AFRICA</h3>
+<h1 align="center">Hi 👋, I'm Cobby S</h1>
+<h3 align="center">Software Engineering Student at ALX A</h3>
 
 <br>
 
