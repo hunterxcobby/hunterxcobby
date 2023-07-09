@@ -40,7 +40,7 @@
 <a href="https://twitter.com/hunterxcobby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hunterxcobby" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/cobby-sefah-solomon-~-c-s-s-6460bb279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hunterxcobby" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cobby_is_a_god/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cobby_is_a_god" height="30" width="40" /></a>
-<a href="https://https://fb.com/solomon.sefah.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.sefah.7" height="30" width="40" /></a>
+<a href="https://m.facebook.com/solomon.sefah.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.sefah.7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
