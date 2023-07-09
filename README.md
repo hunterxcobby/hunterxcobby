@@ -23,18 +23,21 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🌱 I’m currently learning **C Programming**
+- 🔭 I’m currently learning **C Programming**
 
 - 💬 Ask me about **Shell, Linux and C programming Language**
 
-- 📫 How to reach me **khalidtahiritkt@gmail.com**
+- ⚡ Fun fact : **They are about 2,500 programming languages.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bGIrPZKzGxuYeWkh21gzfXTENBoWWRE3/view?usp=sharing](https://drive.google.com/file/d/1bGIrPZKzGxuYeWkh21gzfXTENBoWWRE3/view?usp=sharing)
+- 📫 My Email: **solomonsefah13@gmail.com**
+
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hunterxcobby&"  alt="hunterxcobby" /></p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/talistech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="talistech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khalid-tahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-tahiri" height="30" width="40" /></a>
+<a href="https://twitter.com/hunterxcobby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hunterxcobby" height="30" width="40" /></a>
+<a href="https://in/cobby-sefah-solomon-~-c-s-s-6460bb279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hunterxcobby" height="30" width="40" /></a>
 <a href="https://fb.com/tkt.khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tkt.khalid" height="30" width="40" /></a>
 </p>
 
