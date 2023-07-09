@@ -16,11 +16,11 @@
 <p align="left"> <a href="https://twitter.com/hunterxcobby" target="blank"><img src="https://img.shields.io/twitter/follow/hunterxcobby?logo=twitter&style=for-the-badge" alt="hunterxcobby" /></a> </p>
 
 <br>
-<div align=right>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-  </div>
+<div align="right">
+  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
+</div>
 <br>
-  </div>
+
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
