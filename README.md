@@ -9,7 +9,7 @@
   </div>
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Cobby+%F0%9F%91%8B;👨‍💻+Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Cobby+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
 
@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Shell, Linux and C programming Language**
 
-- ⚡ Fun fact : **They are about 2,500 programming languages.**
+- ⚡ Fun fact : **There are about 2,500 programming languages.**
 
 - 📫 My Email: **solomonsefah13@gmail.com**
 
