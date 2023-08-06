@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **Shell, Linux and C programming Language**
 
-- ⚡ Fun fact : **There are about 2,500 programming languages.**
+- ⚡ Fun fact: **There are about 2,500 programming languages.**
 
 - 📫 My Email: **solomonsefah13@gmail.com**
 
