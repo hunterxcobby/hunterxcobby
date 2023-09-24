@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunterxcobby&label=Profile%20views&color=0e75b6&style=flat" alt="hunterxcobby" /> </p>
 
-[![Beacons.ai Profile](https://img.shields.io/badge/Beacons.ai-cobbysefah-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/cobbysefahsolomon)
+[![Beacons.ai Profile](https://img.shields.io/badge/About_Me-cobbysefah-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/cobbysefahsolomon)
 
 <p align="left"> <a href="https://twitter.com/hunterxcobby" target="blank"><img src="https://img.shields.io/twitter/follow/hunterxcobby?logo=twitter&style=for-the-badge" alt="hunterxcobby" /></a> </p>
 
