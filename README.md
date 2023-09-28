@@ -113,7 +113,7 @@
 
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hunterxcobby&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=true" alt="hunterxcobby's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hunterxcobby&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="hunterxcobby's Trophies" />
 </p>
 
 [GitHub : hunterxcobby](https://github.com/hunterxcobby)
