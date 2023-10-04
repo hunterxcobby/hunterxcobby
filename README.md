@@ -9,11 +9,6 @@
    </a>
 </div>
 
-<!-- <div>
-   <div align=center>
-<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-  </div> -->
-
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunterxcobby&label=Profile%20views&color=0e75b6&style=flat" alt="hunterxcobby" /> </p>
