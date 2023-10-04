@@ -7,7 +7,6 @@
    <a  href = "https://youtu.be/ruawVE5GwM8">
 <img align = "center" src = "https://cdn.discordapp.com/attachments/1131513718363127919/1134424542027206656/ezgif.com-optimize.gif" />
    </a>
-<!-- [![Im actually ken not 0vm](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs) -->
 </div>
 
 <!-- <div>
