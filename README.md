@@ -100,14 +100,16 @@
 
 
 <p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=hunterxcobby&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="hunterxcobby's Trophies" />
+</p>
+
+<p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunterxcobby&theme=algolia&show_icons=true&locale=en&layout=compact" alt="hunterxcobby" />
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterxcobby&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunterxcobby&theme=high-contrast&height=250" alt="GitHub Activity Graph">
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hunterxcobby&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="hunterxcobby's Trophies" />
-</p>
+ 
 
-[GitHub : hunterxcobby](https://github.com/hunterxcobby)
