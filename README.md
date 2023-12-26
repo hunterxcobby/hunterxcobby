@@ -111,11 +111,11 @@
 
 ## Stargazers
 
-[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=Akash1362000&repo=Akash1362000)](https://github.com/Akash1362000/Akash1362000/stargazers)
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=hunterxcobby&repo=hunterxcobby&theme=algolia)](https://github.com/hunterxcobby/hunterxcobby/stargazers)
 
-Leave a ⭐ from [here](https://github.com/Akash1362000/Akash1362000) if you like 😁
+Leave a ⭐ from [here](https://github.com/hunterxcobby/hunterxcobby) if you like 😁
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunterxcobby&theme=high-contrast&height=250" alt="GitHub Activity Graph">
+ <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=hunterxcobby&theme=high-contrast&height=250" alt="GitHub Activity Graph">-->
 
  
 
