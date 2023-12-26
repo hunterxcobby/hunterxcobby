@@ -109,6 +109,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterxcobby&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
+## Stargazers
+
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=Akash1362000&repo=Akash1362000)](https://github.com/Akash1362000/Akash1362000/stargazers)
+
+Leave a ⭐ from [here](https://github.com/Akash1362000/Akash1362000) if you like 😁
+
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunterxcobby&theme=high-contrast&height=250" alt="GitHub Activity Graph">
 
  
