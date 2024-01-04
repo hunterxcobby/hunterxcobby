@@ -100,7 +100,7 @@
 
 
 <p align="left">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunterxcobby&theme=algolia&show_icons=true&locale=en&layout=compact" alt="hunterxcobby" />
+   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hunterxcobby&layout=compact&langs_count=8&theme=algolia" alt="hunterxcobby" />
 </p>
 
 <p align="left">
