@@ -1,3 +1,4 @@
+
 <h1 align="center"> Codifico, Ergo Sum. 👨‍💻 </h1>
  <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Cobby+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
@@ -23,6 +24,8 @@
 </div>
 <br>
 
+[![committers.top badge](https://user-badge.committers.top/ghana/hunterxcobby.svg)](https://user-badge.committers.top/ghana/hunterxcobb)
+
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -34,6 +37,9 @@
 
 - 📫 My Email: **solomonsefah13@gmail.com**
 
+-  😂 Here is a random joke that'll make you laugh!
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
 
  <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunterxcobby&theme=algolia" alt="hunterxcobby" />
