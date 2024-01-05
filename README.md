@@ -39,7 +39,7 @@
 
 -  😂 Here is a random joke that'll make you laugh!
   
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&borderColor=white)
 
  <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunterxcobby&theme=algolia" alt="hunterxcobby" />
