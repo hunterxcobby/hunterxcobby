@@ -117,7 +117,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterxcobby&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
-#### Listen to what I am listening to on Spotify
+#### This what I am currently listening to on Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ykhnv377chgieaafqozwmzgd2e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Check out hunterxcobby's profile on stardev.io](https://stardev.io/developers/hunterxcobby/badge/languages/global.svg)](https://stardev.io/developers/hunterxcobby)
