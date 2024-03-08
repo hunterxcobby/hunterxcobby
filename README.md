@@ -128,6 +128,6 @@
 
 Leave a ⭐ from [here](https://github.com/hunterxcobby/hunterxcobby) if you like 😁
 
- <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=hunterxcobby&theme=high-contrast&height=250" alt="GitHub Activity Graph">-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hunterxcobby&theme=high-contrast&height=250" alt="GitHub Activity Graph">
 
 
