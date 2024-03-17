@@ -51,6 +51,11 @@
 <a href="https://m.facebook.com/solomon.sefah.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.sefah.7" height="30" width="40" /></a>
 </p>
 
+ <p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunterxcobby&theme=algolia" alt="hunterxcobby" />
+</p>
+
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
