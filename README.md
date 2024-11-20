@@ -23,7 +23,7 @@
 </div>
 <br>
 
-<p> Top GitHub Users in Ghana</p>
+<p> Top GitHub Users In Ghana</p>
 
 [![committers.top badge](https://user-badge.committers.top/ghana/hunterxcobby.svg)](https://user-badge.committers.top/ghana/hunterxcobby)
 
