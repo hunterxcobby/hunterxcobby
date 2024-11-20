@@ -28,7 +28,7 @@
 [![committers.top badge](https://user-badge.committers.top/ghana/hunterxcobby.svg)](https://user-badge.committers.top/ghana/hunterxcobby)
 
 
-## *About me**
+## **About me**
 
 - 🔭 I’m currently building a [**Portfolio Project**](https://github.com/hunterxcobby/TimelyCare)
 
