@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently building a [**Portfolio Project**](https://github.com/hunterxcobby/TimelyCare)
 
-- 💬 Ask me about **The 100 days coding challenge**
+- 💬 Ask me about **The 365 days coding challenge**
 
 - ⚡ Fun fact: **There are about 2,500 programming languages.**
 
